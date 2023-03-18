@@ -25,9 +25,21 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Hello",
       "pages": ["introduction"]
-    }
+    },
+    {
+      "group": "For Everyone",
+      "pages": ["three-pillars"]
+    },
+    {
+      "group": "For People Managers",
+      "pages": ["firing-people"]
+    },
+    {
+      "group": "For Founders",
+      "pages": []
+    },
   ],
   "footerSocials": {
     "twitter": "https://twitter.com/tidocarriero",
