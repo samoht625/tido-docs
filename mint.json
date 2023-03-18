@@ -6,6 +6,7 @@
     "dark": "#117866",
     "anchors": { "from": "#55D799", "to": "#139456" }
   },
+  "favicon" : "",
   "topbarCtaButton": {
     "name": "Get Started",
     "url": "https://mintlify.com/"
@@ -26,19 +27,36 @@
   "navigation": [
     {
       "group": "Hello!",
-      "pages": ["introduction"]
+      "pages": [
+      	"hello/introduction"
+      ]
     },
     {
       "group": "Your career",
-      "pages": ["three-pillars-of-happiness", "advocating-for-yourself", "how-promos-happen", "on-fairness"]
+      "pages": [
+      	"your-career/three-pillars-of-happiness", 
+		"your-career/advocating-for-yourself", 
+		"your-career/how-promos-happen", 
+		"your-career/on-fairness"
+	  ]
+	]
     },
     {
       "group": "For managers",
-      "pages": ["on-hiring", "on-firing", "effective-performance-reviews", "new-leadership-role"]
+      "pages": [
+      	"for-managers/on-hiring", 
+      	"for-managers/on-firing", 
+      	"for-managers/effective-performance-reviews", 
+      	"for-managers/new-leadership-role"
+      ]
     },
     {
       "group": "For founders",
-      "pages": ["hiring-a-vpe", "hiring-a-vpp", "upleveling-teams"]
+      "pages": [
+      	"for-founders/hiring-a-vpe", 
+      	"for-founders/hiring-a-vpp", 
+      	"for-founders/upleveling-teams"
+      ]
     }
   ],
   "footerSocials": {
