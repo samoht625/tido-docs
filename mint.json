@@ -34,7 +34,7 @@
     {
       "group": "Your career",
       "pages": [
-      	"your-career/three-pillars-of-happiness", 
+		"your-career/three-pillars-of-happiness", 
 		"your-career/advocating-for-yourself", 
 		"your-career/how-promos-happen", 
 		"your-career/on-fairness"
@@ -44,18 +44,18 @@
     {
       "group": "For managers",
       "pages": [
-      	"for-managers/on-hiring", 
-      	"for-managers/on-firing", 
-      	"for-managers/effective-performance-reviews", 
-      	"for-managers/new-leadership-role"
+		"for-managers/on-hiring", 
+		"for-managers/on-firing", 
+		"for-managers/effective-performance-reviews", 
+		"for-managers/new-leadership-role"
       ]
     },
     {
       "group": "For founders",
       "pages": [
-      	"for-founders/hiring-a-vpe", 
-      	"for-founders/hiring-a-vpp", 
-      	"for-founders/upleveling-teams"
+		"for-founders/hiring-a-vpe", 
+		"for-founders/hiring-a-vpp", 
+		"for-founders/upleveling-teams"
       ]
     }
   ],
