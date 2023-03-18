@@ -29,16 +29,16 @@
       "pages": ["introduction"]
     },
     {
-      "group": "For Everyone",
-      "pages": ["three-pillars"]
+      "group": "Your career",
+      "pages": ["three-pillars-of-happiness", "advocating-for-yourself", "how-promos-happen", "on-fairness"]
     },
     {
-      "group": "For People Managers",
-      "pages": ["firing-people"]
+      "group": "For managers",
+      "pages": ["on-hiring", "on-firing", "effective-performance-reviews", "new-leadership-role"]
     },
     {
-      "group": "For Founders",
-      "pages": []
+      "group": "For founders",
+      "pages": ["hiring-a-vpe", "hiring-a-vpp", "upleveling-teams"]
     },
   ],
   "footerSocials": {
