@@ -1,4 +1,4 @@
-Welcome to Tido Docs
+👋 🌎 Welcome to Tido Docs
 
 Please send feedback, requests for content, or anything else to tido@getkoala.com.
 
