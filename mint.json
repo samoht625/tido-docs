@@ -1,0 +1,36 @@
+{
+  "name": "Tido",
+  "colors": {
+    "primary": "#2AB673",
+    "light": "#55D799",
+    "dark": "#117866",
+    "anchors": { "from": "#55D799", "to": "#139456" }
+  },
+  "topbarCtaButton": {
+    "name": "Get Started",
+    "url": "https://mintlify.com/"
+  },
+  "topbarLinks": [
+    {
+      "name": "Login",
+      "url": "https://mintlify.com/"
+    }
+  ],
+  "anchors": [
+    {
+      "name": "Contact Us",
+      "icon": "envelope",
+      "url": "https://mintlify.com/"
+    }
+  ],
+  "navigation": [
+    {
+      "group": "Get Started",
+      "pages": ["introduction"]
+    }
+  ],
+  "footerSocials": {
+    "twitter": "https://mintlify.com/",
+    "linkedin": "https://mintlify.com/"
+  }
+}
