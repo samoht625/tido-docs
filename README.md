@@ -1,17 +1,5 @@
 Welcome to Tido Docs
 
-The content and configuration powering the documentation available at [tido.mintlify.app](https://tido.mintlify.app)
+Please send feedback, requests for content, or anything else to tido@getkoala.com.
 
-### 👩‍💻 Development
-
-Install the [Mintlify CLI](https://www.npmjs.com/package/mintlify) to preview the documentation changes locally. To install, use the following command
-
-```
-npm i mintlify -g
-```
-
-Run the following command at the root of your documentation (where mint.json is)
-
-```
-mintlify dev
-```
+If you spot a typo or terrible advice, feel free to send a PR too!
