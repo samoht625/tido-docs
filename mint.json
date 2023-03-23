@@ -19,11 +19,6 @@
     }
   ],
   "anchors": [
-    {
-      "name": "Contact Us",
-      "icon": "envelope",
-      "url": "https://mintlify.com/"
-    }
   ],
   "navigation": [
     {
